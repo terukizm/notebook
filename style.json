@@ -36,7 +36,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "#fff",
+        "fill-color": "rgba(255, 255, 255, 0.05)",
         "fill-opacity": {
           "base": 1,
           "stops": [
@@ -439,7 +439,7 @@
       },
       "paint": {
         "fill-opacity": 1,
-        "fill-color": "rgba(38, 38, 38, 1)",
+        "fill-color": "rgba(0, 0, 0, 1)",
         "fill-translate": {
           "base": 1,
           "stops": [
