@@ -2755,8 +2755,11 @@
           "tunnel"
         ]
       ],
+      "layout": {
+        "visibility": "visible"
+      },
       "paint": {
-        "line-color": "#ffffff",
+        "line-color": "rgba(255, 255, 255, 0.4)",
         "line-dasharray": [
           6,
           4
