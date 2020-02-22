@@ -1745,7 +1745,7 @@
         ]
       ],
       "paint": {
-        "line-color": "#dddddd",
+        "line-color": "rgba(238, 238, 238, 0.16)",
         "line-dasharray": [
           1.5,
           0.75
