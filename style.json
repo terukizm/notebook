@@ -2618,9 +2618,9 @@
       },
       "paint": {
         "text-halo-blur": 0.5,
-        "text-color": "#FFFFFF",
+        "text-color": "rgba(85, 85, 85, 1)",
         "text-halo-width": 1,
-        "text-halo-color": "#000000"
+        "text-halo-color": "rgba(255, 255, 255, 1)"
       }
     },
     {
