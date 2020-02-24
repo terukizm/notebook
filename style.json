@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "name": "Geolonia Midnight",
+  "name": "Geolonia Notebook",
   "metadata": {},
   "sources": {
     "geolonia": {
@@ -2831,5 +2831,5 @@
       }
     }
   ],
-  "id": "geolonia-midnight"
+  "id": "geolonia-notebook"
 }

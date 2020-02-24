@@ -1,9 +1,9 @@
-# Midnight
+# Notebook
 
 This is a Mapbox GL JS based style for [Geolonia](https://geolonia.com/).
 
-* [DEMO](https://geolonia.github.io/preview/#geolonia/midnight)
-* [DEMO on editor](https://geolonia.github.io/editor/?style=https://raw.githubusercontent.com/geolonia/midnight/master/style.json)
+* [DEMO](https://geolonia.github.io/preview/#geolonia/notebook)
+* [DEMO on editor](https://geolonia.github.io/editor/?style=https://raw.githubusercontent.com/geolonia/notebook/master/style.json)
 
 ## Development
 
