@@ -89,7 +89,7 @@
         ]
       ],
       "paint": {
-        "fill-color": "rgba(80, 76, 56, 0.34)"
+        "fill-color": "rgba(255, 255, 255, 0.1)"
       }
     },
     {
@@ -151,7 +151,7 @@
         "cemetery"
       ],
       "paint": {
-        "fill-color": "rgba(224, 228, 221, 0.14)"
+        "fill-color": "rgba(255, 255, 255, 0.1)"
       }
     },
     {
@@ -165,7 +165,7 @@
         "hospital"
       ],
       "paint": {
-        "fill-color": "rgba(47, 29, 29, 0.41)"
+        "fill-color": "rgba(255, 255, 255, 0.1)"
       }
     },
     {
@@ -179,7 +179,7 @@
         "school"
       ],
       "paint": {
-        "fill-color": "rgba(33, 30, 40, 0.63)"
+        "fill-color": "rgba(255, 255, 255, 0.1)"
       }
     },
     {
@@ -193,7 +193,7 @@
         "railway"
       ],
       "paint": {
-        "fill-color": "rgba(234, 230, 225, 0.2)"
+        "fill-color": "rgba(255, 255, 255, 0.1)"
       }
     },
     {
@@ -2191,7 +2191,7 @@
         ]
       ],
       "paint": {
-        "line-color": "#999999",
+        "line-color": "rgba(153, 153, 153, 0.8)",
         "line-width": {
           "stops": [
             [
@@ -2232,7 +2232,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(255, 255, 255, 0.4)",
+        "line-color": "rgba(255, 255, 255, 1)",
         "line-dasharray": [
           6,
           4
@@ -2696,8 +2696,8 @@
       "minzoom": 15,
       "paint": {
         "fill-opacity": 0.6,
-        "fill-color": "rgba(255, 255, 255, 0.06)",
-        "fill-outline-color": "rgba(72, 72, 72, 1)",
+        "fill-color": "rgba(255, 255, 255, 0.1)",
+        "fill-outline-color": "rgba(255, 255, 255, 1)",
         "fill-antialias": true
       }
     },
