@@ -350,7 +350,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "rgba(140, 178, 244, 0.39)"
+        "fill-color": "rgba(223, 230, 246, 1)"
       }
     },
     {
@@ -2362,14 +2362,14 @@
       "source": "geolonia",
       "source-layer": "building",
       "minzoom": 15,
+      "layout": {
+        "visibility": "visible"
+      },
       "paint": {
         "fill-opacity": 0.6,
         "fill-color": "rgba(238, 238, 238, 1)",
         "fill-outline-color": "rgba(204, 204, 204, 1)",
         "fill-antialias": true
-      },
-      "layout": {
-        "visibility": "visible"
       }
     },
     {
