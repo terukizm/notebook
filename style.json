@@ -402,7 +402,7 @@
         ]
       ],
       "paint": {
-        "line-color": "rgba(255, 255, 255, 0.4)",
+        "line-color": "rgba(204, 204, 204, 0.4)",
         "line-opacity": 1,
         "line-width": {
           "base": 1.4,
