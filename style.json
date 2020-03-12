@@ -67,7 +67,7 @@
         ]
       ],
       "paint": {
-        "fill-color": "hsla(0, 60%, 87%, 0.1)"
+        "fill-color": "rgba(245, 245, 245, 1)"
       }
     },
     {
@@ -89,7 +89,7 @@
         ]
       ],
       "paint": {
-        "fill-color": "rgba(255, 255, 255, 0.1)"
+        "fill-color": "rgba(245, 245, 245, 1)"
       }
     },
     {
@@ -165,7 +165,7 @@
         "hospital"
       ],
       "paint": {
-        "fill-color": "rgba(255, 255, 255, 0.1)"
+        "fill-color": "rgba(245, 245, 245, 1)"
       }
     },
     {
@@ -179,7 +179,7 @@
         "school"
       ],
       "paint": {
-        "fill-color": "rgba(255, 255, 255, 0.1)"
+        "fill-color": "rgba(245, 245, 245, 1)"
       }
     },
     {
@@ -220,8 +220,8 @@
         ]
       ],
       "paint": {
-        "fill-color": "rgba(39, 128, 44, 0.82)",
-        "fill-opacity": 0.2,
+        "fill-color": "rgba(245, 245, 245, 1)",
+        "fill-opacity": 1,
         "fill-outline-color": "hsla(0, 0%, 0%, 0.03)",
         "fill-antialias": {
           "base": 1,
@@ -350,7 +350,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "rgba(223, 230, 246, 1)"
+        "fill-color": "rgba(155, 155, 155, 1)"
       }
     },
     {
