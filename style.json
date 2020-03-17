@@ -2472,9 +2472,9 @@
       },
       "paint": {
         "text-halo-blur": 0.5,
-        "text-color": "#666",
+        "text-color": "#FFFFFF",
         "text-halo-width": 1,
-        "text-halo-color": "#ffffff"
+        "text-halo-color": "#000000"
       }
     },
     {
@@ -2534,9 +2534,9 @@
       },
       "paint": {
         "text-halo-blur": 0.5,
-        "text-color": "#666",
+        "text-color": "#FFFFFF",
         "text-halo-width": 1,
-        "text-halo-color": "#ffffff"
+        "text-halo-color": "#000000"
       }
     },
     {
